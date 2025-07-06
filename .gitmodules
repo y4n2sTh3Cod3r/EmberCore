@@ -1,0 +1,3 @@
+[submodule "EmberCoreRuntime"]
+	path = EmberCoreRuntime
+	url = git@github.com:y4n2sTh3Cod3r/EmberCoreRuntime.git
