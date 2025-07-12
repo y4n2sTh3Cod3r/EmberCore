@@ -1,3 +1,7 @@
 [submodule "EmberCoreRuntime"]
 	path = EmberCoreRuntime
-	url = git@github.com:y4n2sTh3Cod3r/EmberCoreRuntime.git
+	url = https://github.com/y4n2sTh3Cod3r/EmberCoreRuntime.git
+[submodule "Editor/vendor/imgui"]
+	path = Editor/vendor/imgui
+	url = https://github.com/TheCherno/imgui.git
+	branch = docking
